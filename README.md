@@ -1,4 +1,4 @@
-# Note Keeper
+Note Keeper
 Note Keeper is a simple text editor built with Java Swing. It provides essential functionalities for creating, editing, and formatting text files.
 
 ## Features
